@@ -1,5 +1,5 @@
 # Goyabu Anime Downloader
-Uma ferramenta feita para **baixar episódios de animes do site <a href="https://www.goyabu.vip/" target="_blank">goyabu.vip/</a> utilizando o ID do vídeo.**
+Uma ferramenta feita para **baixar episódios de animes do site <a href="https://www.goyabu.vip/" target="_blank">a</a> utilizando o ID do vídeo.**
 
 
 ![image](https://user-images.githubusercontent.com/100825381/178635415-064f45c1-b68d-40e8-beea-8dfc49c3656d.png)
