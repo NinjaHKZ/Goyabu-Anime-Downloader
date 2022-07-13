@@ -38,4 +38,6 @@ Uma ferramenta feita para **baixar episódios de animes do site https://www.goya
 ## OUTROS:
 
   Como a ferramenta ainda está sendo desenvolvida, ainda existe algumas coisas que podem ser melhoradas e corrigidas, também existem
-  outras features que podem ser adicionadas em atualizações futuras. Caso encontre algum erro, sinta-se livre em informar para que seja corrigido <3
+  outras features que podem ser adicionadas em atualizações futuras. 
+  
+  Caso encontre algum erro, sinta-se livre em informar para que seja corrigido <3
