@@ -81,11 +81,10 @@ class WrapperAnime:
 
 
 if __name__ == "__main__":
-	#_id = set(input('Insira o Id dos Animes >>> ').replace(' ', '').split(','))
-	#_dir = input('Insira o local onde deseja salvar os animes >>> ')
+	_id = set(input('Insira o Id dos Animes >>> ').replace(' ', '').split(','))
+	_dir = input('Insira o local onde deseja salvar os animes >>> ')
 	print('\n')
-	_id = '130849'.split()
-	_dir = 'anime/'
+	
 	asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
 	aiohttp.TCPConnector(limit=2)	
 	_DownloadingAnimes = ''
