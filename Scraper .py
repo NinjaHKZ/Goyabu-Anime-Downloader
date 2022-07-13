@@ -85,7 +85,6 @@ if __name__ == "__main__":
 	
 	#asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
 	
-	aiohttp.TCPConnector(limit=2)	
-
-
+	aiohttp.TCPConnector(limit=4)
+	
 	asyncio.run(WrapperAnime.Start(_id, _dir))
