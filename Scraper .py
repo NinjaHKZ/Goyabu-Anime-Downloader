@@ -31,7 +31,7 @@ class WrapperAnime:
 		print('\nFinalizado.\n')
 		os.system('pause')
 
-	async def _ScrapperUrl(_url, _id, _dir) -> str:
+	async def _ScrapperUrl(_url, _id, _dir) -> None:
 		global _Downloads
 
 		async with aiohttp.ClientSession() as request:
@@ -82,6 +82,7 @@ if __name__ == "__main__":
 	_dir = input('Insira o local onde deseja salvar os animes >>> ')
 	print('\n')
 	
+	## Desmarcar caso o asyncio retorne algum erro
 	#asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
 	
 	aiohttp.TCPConnector(limit=4)
