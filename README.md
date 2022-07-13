@@ -1,15 +1,30 @@
 # Goyabu Anime Downloader
-Uma ferramenta feita para **baixar episódios de animes do site https://www.goyabu.vip/ utilizando o ID do vídeo.**
+  Uma ferramenta feita para **baixar episódios de animes do site https://www.goyabu.vip/ utilizando o ID do vídeo.**
+  
+  ![image](https://user-images.githubusercontent.com/100825381/178635415-064f45c1-b68d-40e8-beea-8dfc49c3656d.png)<br><br>
 
 
-![image](https://user-images.githubusercontent.com/100825381/178635415-064f45c1-b68d-40e8-beea-8dfc49c3656d.png)
+
+
+## Antes de começar:
+  O download pode demorar vários minutos dependendo da velocidade da sua internet, normalmente episódios com qualidade muito alta
+  costumam ser bem grandes.
+  
+  
+
+  <p align='center'>
+    <img src='https://user-images.githubusercontent.com/100825381/178644493-dbfcd143-7d12-4635-ab49-a7b23bfd0462.png'>
+    <img src='https://user-images.githubusercontent.com/100825381/178645053-2c467afe-f77b-4d24-8617-6aff996d5143.png'>
+  </p><br><br>
+
+
 
 ## Requisitos:
   
   Para utilizar a ferramenta é necessário ter em mãos **alguns módulos Python**, são esses:
   - **Python 3 ou superior** (https://www.python.org/downloads/release/python-3105/)
   - **BeautifulSoup** (`pip install bs4`)
-  - **aiohttp** (`pip install aiohttp`) 
+  - **aiohttp** (`pip install aiohttp`)<br><br>
 
 
 
@@ -44,7 +59,7 @@ Uma ferramenta feita para **baixar episódios de animes do site https://www.goya
   * Após inserir as informações, o script vai começar a coletar os dados e iniciar o download dos vídeos de forma asyncrona:
     <p>
       <img src='https://user-images.githubusercontent.com/100825381/178630459-476c1b92-fd8c-4528-9ccc-5f49a01dbace.PNG'><br>
-    </p>
+    </p><br><br>
 
 
 ## Metas de desenvolvimento:
@@ -54,7 +69,7 @@ Uma ferramenta feita para **baixar episódios de animes do site https://www.goya
   * [ ] Criar Comandos Para Execução Personalizada.
   * [ ] Auto Updater.
   * [ ] Adicionar a Tradução para o Idioma Inglês.
-  * [ ] Interface Gráfica(Tkinter). 
+  * [ ] Interface Gráfica(Tkinter).<br><br>
 
 
 ## Considerações Finais:
