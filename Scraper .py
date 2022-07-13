@@ -5,7 +5,8 @@ from bs4 import BeautifulSoup
 
 class WrapperAnime:
 	async def Start(_id, _dir='') -> bool:
-		global _Downloads, _DownloadingAnimes
+		_DownloadingAnimes = ''
+		_Downloads = 0
 
 		_Tasks = []
 		os.system('cls' if sys.platform == 'win32' else 'clear')
@@ -62,9 +63,6 @@ class WrapperAnime:
 							print(f'um novo arquivo {_id}.mp4 foi identificado, removendo arquivo {_id}.vidk...')
 							os.remove(f'{_dir}{_id}.vidk')
 
-
-						_Downloads -= 1
-
 						break
 
 					except FileNotFoundError:
@@ -85,9 +83,9 @@ if __name__ == "__main__":
 	_dir = input('Insira o local onde deseja salvar os animes >>> ')
 	print('\n')
 	
-	asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
+	#asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
+	
 	aiohttp.TCPConnector(limit=2)	
-	_DownloadingAnimes = ''
-	_Downloads = 0
+
 
 	asyncio.run(WrapperAnime.Start(_id, _dir))
