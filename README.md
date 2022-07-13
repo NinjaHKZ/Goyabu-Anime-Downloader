@@ -64,6 +64,7 @@
 
 ## Metas de desenvolvimento:
   * [x] Donwload de Multiplos Vídeos Juntos.
+  * [ ] Limitador de Donwloads Multiplos de Acordo com a Velocidade da Conexão.
   * [ ] Captura de Informações do Anime (nome, gênero, bio, ect...).
   * [ ] Procurar e Baixar os Episódios Pelo Nome do Anime.
   * [ ] Criar Comandos Para Execução Personalizada.
