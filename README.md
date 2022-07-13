@@ -25,7 +25,10 @@
   - **Python 3 ou superior** (https://www.python.org/downloads/release/python-3105/)
   - **BeautifulSoup** (`pip install bs4`)
   - **aiohttp** (`pip install aiohttp`)<br><br>
-
+  
+  Para baixar e instalar os pacotes, digite o comando `pip install bs4 aiohttp` em seu CMD:
+  
+   ![image](https://user-images.githubusercontent.com/100825381/178647335-8c67b3c7-7d31-4a6f-92dc-2d935f15a24c.png)<br><br>
 
 
 
