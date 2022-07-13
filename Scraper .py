@@ -30,7 +30,6 @@ class WrapperAnime:
 		
 		print('\nFinalizado.\n')
 		os.system('pause')
-	
 
 	async def _ScrapperUrl(_url, _id, _dir) -> str:
 		global _Downloads
