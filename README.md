@@ -22,12 +22,25 @@ Uma ferramenta feita para **baixar episódios de animes do site https://www.goya
   executado.
   
   ### Configuração:
-  * Após a execução do programa, inicialmente ele vai pedir o ID do episódio e o Lugar onde deseja salvar o download:
+  * Após a execução do programa, inicialmente ele vai pedir o ID do episódio e o Lugar onde deseja salvar o download, veja abaixo:
+  
+    O ID pode ser adquirido pela URL do episódio:
+
+    URL | ID
+    --- | --- |
+    ht&#8203;tps://goyabu.vip/video/**130849**/ | **130849**
+    ht&#8203;tps://goyabu.vip/video/**130841**/ | **130841**
+
+
+    Agora com o seu ID copiado, vá para o programa e insira as informações que a ferramente lhe pede:
+    
     <p>
       <img src='https://user-images.githubusercontent.com/100825381/178629668-4b66edbc-3413-4943-84f7-c16566efff63.PNG'><br>
       <sub>Observação: você pode passar mais de 2 IDs, contudo ele deve ser separado por vírgula.</sub><br><br>
     </p>
-    
+
+
+
   * Após inserir as informações, o script vai começar a coletar os dados e iniciar o download dos vídeos de forma asyncrona:
     <p>
       <img src='https://user-images.githubusercontent.com/100825381/178630459-476c1b92-fd8c-4528-9ccc-5f49a01dbace.PNG'><br>
