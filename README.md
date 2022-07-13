@@ -32,7 +32,7 @@
 
 ## Utilização:
 
-  Após a instação dos módulos, você pode dar dois clicks em cima do arquivo **scrapper.py** 
+  Após a instação dos módulos, você pode dar dois clicks em cima do arquivo **Scraper.py** 
   ou com o CMD aberto no diretório onde está o script, basta digitar o comando **python scrapper.py** que o mesmo será
   executado.
   
