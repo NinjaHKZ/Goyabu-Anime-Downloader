@@ -34,10 +34,20 @@ Uma ferramenta feita para **baixar episódios de animes do site https://www.goya
     </p>
 
 
+## Metas de desenvolvimento:
+  * [x] Donwload de Multiplos Vídeos Juntos.
+  * [ ] Captura de informações do anime (nome, gênero, bio, ect...).
+  * [ ] Procurar e Baixar os Episódios Pelo Nome do Anime.
+  * [ ] Criar Comandos Para Execução Personalizada.
+  * [ ] Auto Updater.
+  * [ ] Adicionar a Tradução para o Idioma Inglês.
+  * [ ] Interface Gráfica(Tkinter). 
 
-## OUTROS:
+
+## Considerações Finais:
 
   Como a ferramenta ainda está sendo desenvolvida, ainda existe algumas coisas que podem ser melhoradas e corrigidas, também existem
   outras features que podem ser adicionadas em atualizações futuras. 
   
   Caso encontre algum erro, sinta-se livre em informar para que seja corrigido <3
+
