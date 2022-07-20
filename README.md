@@ -64,18 +64,6 @@
       <img src='https://user-images.githubusercontent.com/100825381/178630459-476c1b92-fd8c-4528-9ccc-5f49a01dbace.PNG'><br>
     </p><br><br>
 
-
-## Metas de desenvolvimento:
-  * [x] Download de Múltiplos Vídeos Juntos.
-  * [ ] Limitador de Downloads Múltiplos de Acordo com a Velocidade da Conexão.
-  * [ ] Captura de Informações do Anime (nome, gênero, bio, ect...).
-  * [ ] Procurar e Baixar os Episódios Pelo Nome do Anime.
-  * [ ] Criar Comandos Para Execução Personalizada.
-  * [ ] Auto Updater.
-  * [ ] Adicionar a Tradução para o Idioma Inglês.
-  * [ ] Interface Gráfica(Tkinter).<br><br>
-
-
 ## Considerações Finais:
 
   Como a ferramenta ainda está sendo desenvolvida, ainda existe algumas coisas que podem ser melhoradas e corrigidas, também existem
